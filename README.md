@@ -1,4 +1,4 @@
-# Quote Generator
+# Color Flipper
 
 ## Overview
 
@@ -12,9 +12,9 @@ A Color Flipper that generate random colors on click.
 
 ## Technologies Used
 
-  - HTML
-  - CSS
-  - JavaScript
+- HTML
+- CSS
+- JavaScript
 
 ## Installation
 
@@ -27,7 +27,7 @@ A Color Flipper that generate random colors on click.
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Amalkrishnanvp/Quote-Generator.git
+   git clone https://github.com/Amalkrishnanvp/Color-Flipper.git
    ```
 
 2. **Run the project**
